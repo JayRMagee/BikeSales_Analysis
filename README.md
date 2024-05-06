@@ -1,0 +1,1 @@
+In this simple project I take a dataset of bike sales that has information on the people who purchased or did not purchase a bike. I cleaned the dataset and made it easier to work with in my analysis. I was able to uncover some insights on who is more likely to purchase a bike and who may not. 
